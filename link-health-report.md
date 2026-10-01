@@ -1,4 +1,4 @@
-# Link report: 2026-09-24
+# Link report: 2026-10-01
 
 * Checked: **144**
 * Alive: **143**
@@ -11,4 +11,4 @@
 ### L291: AI Engineer
 * Old: `https://www.aicamp.so/`
 * Status: `unresolved`
-* Notes: No Groq suggestion (HTTP Error 522: <none>)
+* Notes: No Groq suggestion (HTTP Error 525: <none>)
